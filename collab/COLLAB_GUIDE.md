@@ -1,6 +1,6 @@
 # Collaboration Projects
 
-Welcome to the **Collaboration Projects** folder for the Codecademy Web Dev Study Groups 2025! This space is dedicated to group projects and collaborative learning. Here, you can find exciting projects to join or start your own and work with fellow study group members to enhance your front-end development skills.
+Welcome to the **Collaboration Projects** folder for the Codecademy Web Dev Study Groups 2025! This space is dedicated to group projects and collaborative learning. Here, you can find exciting projects to join or start your own and work with fellow study group members to enhance your web development skills.
 
 ## How to Collaborate
 

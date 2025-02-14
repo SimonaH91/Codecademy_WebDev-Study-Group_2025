@@ -4,10 +4,8 @@ Hi there! We're thrilled to have you in the **Codecademy Web Dev Study Groups**.
 
 ## Meet Your Study Group Managers
 
-- **Dani T**: [Brief Bio | Circle Profile Link]
-- **Kelvin B**: [Brief Bio | Circle Profile Link]
-- **Sean K**: [Brief Bio | Circle Profile Link]
-- **Jason N**: [Brief Bio | Circle Profile Link]
+- **Dani T**: [Brief Bio | [Circle Profile](https://community.codecademy.com/u/8e235244)]
+- **Sean K**: [Brief Bio | [Circle Profile](https://community.codecademy.com/u/a6ff2e17)]
 
 We're here to support you throughout this study group experience. If you have any questions or need guidance, don't hesitate to reach out!
 
