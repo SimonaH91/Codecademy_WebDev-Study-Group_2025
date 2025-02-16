@@ -19,11 +19,7 @@ Welcome to the **Collaboration Projects** folder for the Codecademy Web Dev Stud
 ### 3. Starting a Project
 
 - Create a new subfolder under `/collab` with a descriptive name.
-- Add a `README.md` to your folder with the following information:
-  - Project title and description.
-  - Goals and technologies used.
-  - Open roles or tasks for collaborators.
-  - Contact information for interested members.
+- Copy the `COLLAB_TEMPLATE.md` to your folder, rename it to `README.md` and fill it out.
 
 ## Contribution Workflow
 
