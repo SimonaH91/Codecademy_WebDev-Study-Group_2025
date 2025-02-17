@@ -114,9 +114,7 @@ For questions or assistance, reach out to one of the study group managers:
 **Front-End**
 
 - [**Dani T**](https://community.codecademy.com/u/8e235244)
-- [**Kelvin B**](https://community.codecademy.com/u/589c0b23)
 
 **Full-Stack**
 
 - [**Sean K**](https://community.codecademy.com/u/a6ff2e17)
-- [**Jason N**](https://community.codecademy.com/u/6c35ad43)
