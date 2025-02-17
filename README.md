@@ -17,7 +17,7 @@ Each member will create their own folder under `/members/` by following these st
 
 1. Copy the `/template/` folder.
 
-2. Paste it into the `/members/` folder.
+2. Paste it into the correct study group in the `/members/` folder.
 
 3. Rename the folder to your name in the format `First_Last`.
 
