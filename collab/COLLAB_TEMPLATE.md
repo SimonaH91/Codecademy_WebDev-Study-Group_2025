@@ -3,7 +3,7 @@
 📌 Project Description:
 **[Provide a brief description of your project, its purpose, and what the final product should look like.]**
 
-## 👥 Number of Contributors & Required Skills:
+## 👥 Number of Contributors & Required Skills
 
 - Total Contrinutors Needed: [INSERT NUMBER]
 - Roles & Knowledge Required:
@@ -11,20 +11,20 @@
   - [Role 2]: [Description of responsibilities and required skills]
   - [Role 3] (Optional): [Additional skills if necessary]
  
-## 🔧 Tools & Technologies:
+## 🔧 Tools & Technologies
 
 - Languages: [Insert languages required]
 - Version Control: [Git & GitHub or other tools]
 - Development Tools: [VS Code, Figma, etc.]
 - Backend (Optional): [Node.js, Firebase, etc.]
 
-## 📩 Contact Information:
+## 📩 Contact Information
 
 - Project Owner: [Your Name or Username]
 - Preferred Contact Method: [Email, Discord, GitHub, Circle, etc.]
 - GitHub Repository Link (if applicable): [Insert Link]
 
-## ⚡ Collaboration Rules & Workflow:
+## ⚡ Collaboration Rules & Workflow
 
 1. Fork & Clone the Repo
 
@@ -38,7 +38,7 @@
 
 6. Final Review & Deployment (Optional)
 
-## 📜 Code of Conduct:
+## 📜 Code of Conduct
 
 To ensure a smooth collaboration, all contributors must follow these guidelines:
 
@@ -54,7 +54,7 @@ To ensure a smooth collaboration, all contributors must follow these guidelines:
 
 - Final Decisions: The project owner has the final say on major changes.
 
-## 📝 Task Breakdown:
+## 📝 Task Breakdown
 
 ### 1️⃣ [Task Category] (Contributor 1-2)
 
