@@ -6,8 +6,8 @@ Develop a **basic task manager web application** where users can add, edit, dele
 
 ## 👥 Number of Contributors & Required Skills
 
-- Total Contributors: 3-5
-- Roles & Knowledge Required:
+- **Total Contributors**: 3-5
+- **Roles & Knowledge Required**:
 
   - **HTML/CSS Developer (1-2 people)**: Creates the basic layout and applies styling for a clean UI.
   - **JavaScript Developer (1-2 people)**: Handles task management functionality.
@@ -22,9 +22,9 @@ Develop a **basic task manager web application** where users can add, edit, dele
 
 ## 📩 Contact Information
 
-Project Owner: TBD
-Preferred Contact Method: [Circle](https://community.codecademy.com/u/8e235244)
-GitHub Repository Link (if applicable): TBD
+- Project Owner: TBD
+- Preferred Contact Method: [Circle](https://community.codecademy.com/u/8e235244)
+- GitHub Repository Link (if applicable): TBD
 
 ## ⚡ Collaboration Rules & Workflow
 
