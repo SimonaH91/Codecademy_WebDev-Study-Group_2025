@@ -6,7 +6,7 @@ Develop a responsive web-based expense tracker that allows users to log expenses
 
 ## 👥 Number of Contributors & Required Skills
 
-- 8*Total Contributors**: 4-6
+- **Total Contributors**: 4-6
 - **Roles & Knowledge Required**:
 
   - **Frontend Developer (2-3 people)**: Should have experience with JavaScript, React or Vue, and CSS frameworks (Bootstrap, Tailwind, etc.).
