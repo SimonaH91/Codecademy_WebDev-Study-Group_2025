@@ -6,8 +6,8 @@ Welcome to the **Collaboration Projects** folder for the Codecademy Web Dev Stud
 
 ### 1. Finding a Project
 
-- Browse the `/collab` folder for ongoing projects.
-  - Each project will have its own subfolder, named descriptively (e.g., `/collab/project_name`), containing a `README.md` with project details.
+- Browse the `/collab_projects` folder for ongoing projects.
+  - Each project will have its own subfolder, named descriptively (e.g., `/collab_projects/project_name`), containing a `README.md` with project details.
 - Read through the project descriptions to find one that matches your interests and skill level.
 
 ### 2. Finding Collaborators
