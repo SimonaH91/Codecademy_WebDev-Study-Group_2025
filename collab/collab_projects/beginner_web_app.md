@@ -1,4 +1,4 @@
-# Project Title: Interactive Task Manager
+# Project Title: **Interactive Task Manager**
 
 📌 Project Description:
 
