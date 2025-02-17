@@ -23,9 +23,9 @@ Develop a responsive web-based expense tracker that allows users to log expenses
 
 ## 📩 Contact Information
 
-Project Owner: TBD
-Preferred Contact Method: [Circle](https://community.codecademy.com/u/8e235244)
-GitHub Repository Link (if applicable): TBD
+- Project Owner: TBD
+- Preferred Contact Method: [Circle](https://community.codecademy.com/u/8e235244)
+- GitHub Repository Link (if applicable): TBD
 
 ## ⚡ Collaboration Rules & Workflow:
 
