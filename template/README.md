@@ -5,7 +5,9 @@ Hi there! We're thrilled to have you in the **Codecademy Web Dev Study Groups**.
 ## Meet Your Study Group Managers
 
 - **Dani T**: 
-Hi, I'm Dani! I'm currently leading the Codecademy Front-End Study Group as part of the Study Group Manager beta program. My background is in web development, with a growing interest in accessibility and front-end technologies. I enjoy building projects, exploring best practices in UI/UX, and helping others navigate their coding journey. You'll find me organizing events, debugging code, and learning alongside the group. Looking forward to collaborating! | [Circle Profile](https://community.codecademy.com/u/8e235244)
+
+Hi, I'm Dani! I'm currently leading the Codecademy Front-End Study Group as part of the Study Group program. My background is in web development, with a growing interest in accessibility and front-end technologies. I enjoy building projects, exploring best practices in UI/UX, and helping others navigate their coding journey. You'll find me organizing events, debugging code, and learning alongside the group. Looking forward to collaborating! | [Circle Profile](https://community.codecademy.com/u/8e235244)
+
 - **Sean K**: [Brief Bio | [Circle Profile](https://community.codecademy.com/u/a6ff2e17)]
 
 We're here to support you throughout this study group experience. If you have any questions or need guidance, don't hesitate to reach out!
