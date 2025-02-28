@@ -1,3 +1,5 @@
+# Simona has created this branch
+
 # Codecademy Web Dev Study Group 2025
 
 Welcome to the **Codecademy Web Dev Study Group** repository! This repository is designed to support both the Front-End and Full-Stack study groups by providing a collaborative space for resources, personal projects, and group assignments. Together, we aim to enhance our web development skills while fostering a supportive learning environment.
